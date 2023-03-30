@@ -1,0 +1,3 @@
+﻿  BankingSysytem.cpp
+C:\Users\vyasc\source\repos\BankingSysytem\BankingSysytem\BankingSysytem.cpp(102,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  BankingSysytem.vcxproj -> C:\Users\vyasc\source\repos\BankingSysytem\x64\Debug\BankingSysytem.exe
